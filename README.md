@@ -4,7 +4,7 @@
 
 This project showcases an interactive dashboard designed to analyze electric vehicle (EV) adoption across the United States. Using a combination of SQL, Excel, and Tableau, the dashboard provides key insights into EV trends, distribution by make and model, and geographic adoption patterns.
 
-Problem Statement:
+🔍 Problem Statement
 
 This project aims to solve this problem by creating an interactive, data-driven dashboard using Excel, SQL, and Tableau. The dashboard provides clear insights into EV trends across the U.S., including vehicle distribution by model, make, type, year, and state, enabling data-backed decisions for EV adoption strategies, product planning, and policy development.
 
