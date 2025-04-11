@@ -48,3 +48,24 @@ Understanding EV adoption trends.
 Identifying leading brands and models.
 
 Analyzing regional market performance for strategic planning.
+
+
+💡 Data-Driven Recommendations (Based on Your Dashboard):
+
+Tesla is the Clear Leader
+
+Holds over 50% of EVs in your dataset. Models Y, 3, and S are top 3.
+
+Suggests strong consumer trust, resale value, and infrastructure support.
+
+Model Y and Model 3 are Most Popular
+
+Consider recommending Model Y for families/SUV needs and Model 3 for personal or urban use.
+
+Washington is a Hotspot
+
+States like Washington, California, and Florida lead EV adoption — better infrastructure, charging stations, and incentives likely available.
+
+BEVs > PHEVs
+
+Battery electric vehicles (BEVs) make up 77.62% of the total — recommend going full electric unless long rural drives are common.
