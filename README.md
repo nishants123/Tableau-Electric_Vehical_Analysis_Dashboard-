@@ -39,16 +39,6 @@ Washington state leads with the highest number of EV registrations.
 
 Most vehicles are BEVs, accounting for over 77% of the total.
 
-🚀 Outcomes:
-
-This dashboard aids stakeholders, policymakers, and EV manufacturers in:
-
-Understanding EV adoption trends.
-
-Identifying leading brands and models.
-
-Analyzing regional market performance for strategic planning.
-
 
 💡 Data-Driven Recommendations (Based on Your Dashboard):
 
@@ -69,3 +59,14 @@ States like Washington, California, and Florida lead EV adoption — better infr
 BEVs > PHEVs
 
 Battery electric vehicles (BEVs) make up 77.62% of the total — recommend going full electric unless long rural drives are common.
+
+
+🚀 Outcomes:
+
+This dashboard aids stakeholders, policymakers, and EV manufacturers in:
+
+Understanding EV adoption trends.
+
+Identifying leading brands and models.
+
+Analyzing regional market performance for strategic planning.
